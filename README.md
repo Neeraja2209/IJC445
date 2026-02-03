@@ -14,19 +14,27 @@ This GitHub repository contains a folder named Plots, and files named Data Viz R
 <img width="1310" height="577" alt="image" src="https://github.com/user-attachments/assets/3ae645a6-a1d4-41f6-a8a8-0f6a37596f01" />
 
 
-3. Save these files in a local directory
+2. Save these files in a local directory
 
 <img width="1065" height="308" alt="image" src="https://github.com/user-attachments/assets/0b34b8e3-3116-4f8c-b418-dc1334fb693d" />
 
+
 3. Open R studio
+
+
  
 4. Set the working directory to the local directory containing the csv file and the R file
 
 <img width="1872" height="907" alt="image" src="https://github.com/user-attachments/assets/5e7e2c99-2c57-4fe6-bda7-4a312a944046" />
 
+
 5. Click on Data Viz R code.R file to open and run the code line by line.
+
 
 # Special Instructions
 After running line 172, the visualisation opens on on the viewer tab. Once the visualisation is up, I would recommend exploring the interactive plot by adding / removing genres from the chart by clicking on the genre names displayed on the legend at right side of the plot. Selected genres appears highlighted. You can also adjust the year range by using the slider at the bottom of the plot.
 
 <img width="1908" height="1005" alt="image" src="https://github.com/user-attachments/assets/1aefc4a2-7022-474a-adb4-84d0df7a6ee2" />
+
+
+This repository contains a folder named plots, which is where you can find all the 6 expected output visualisations for validating if the expected output matches with the executed output.
