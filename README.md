@@ -1,9 +1,17 @@
 # IJC445 - Analysing Temporal Popularity Trends for Selected Musical Genres
 This repository contains the necessary file related to IJC445 - Data Visualisation coursework
 
-This project explores popularity trends for selected musical genres over time. The genres drawing comparisons in this project are pop, hip hop, dance pop, disco, contemporary country, classic soul, rock and roll, Canadian pop, boy band, and classic UK pop. A total of 6 plots have been created as part of this project, each exploring a different aspect of the popularity trends. This project helps in building visualisations that help understand trends present in the data. It helps in drawing inferences from the visualisation, enhancing interpretability skills.
-This project uses the MusicOset dataset. This dataset contains a wide range of data with respect to songs, albums, artists, lyrics, metadata and more
-Data files such as Artists, Songs, Song Chart, Releases, Tracks, and Acoustic Features are used in this project to analyse song popularity across genres over time.
+# Overview of this project
+This project analyses how song and artist popularity trends evolve across selected musical genres using a composite set of visualisations built from the MusicOSet
+dataset (1964–2020). Through boxplots, treemaps, faceted regression plots, interactive time series charts, and heatmaps, the study explores distributional
+differences, temporal shifts, and audio feature associations across ten genres including popular genres such as pop, hip hop, dance pop, disco, and classic soul.
+
+The analysis reveals that contemporary pop oriented genres consistently achieve higher popularity, while older genres show greater variability and gradual decline
+over time. Temporal regression trends highlight the rise of hip hop and dance based genres in the streaming era, whereas heatmap correlations show strong
+associations between danceability, energy, valence, and modern genres, and higher acousticness or instrumentalness in traditional genres like rock and roll.
+
+Overall, the project demonstrates how multi layered visualisation using R can uncover genre specific patterns, sonic identities, and long term popularity
+trajectories, while also identifying limitations and opportunities for improving accessibility, interpretability, and dataset scope in future work.
 
 # Steps to run R code for data visualisation -
 This GitHub repository contains a folder named Plots, and files named Data Viz R code.R and data_viz_dataset.csv apart from this README.md file.
